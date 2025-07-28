@@ -1,0 +1,83 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Learn Acrobat - Create and Convert_1.pdf",
+            "Learn Acrobat - Create and Convert_2.pdf",
+            "Learn Acrobat - Edit_1.pdf",
+            "Learn Acrobat - Edit_2.pdf",
+            "Learn Acrobat - Export_1.pdf",
+            "Learn Acrobat - Export_2.pdf",
+            "Learn Acrobat - Fill and Sign.pdf",
+            "Learn Acrobat - Generative AI_1.pdf",
+            "Learn Acrobat - Generative AI_2.pdf",
+            "Learn Acrobat - Request e-signatures_1.pdf",
+            "Learn Acrobat - Request e-signatures_2.pdf",
+            "Learn Acrobat - Share_1.pdf",
+            "Learn Acrobat - Share_2.pdf",
+            "Test Your Acrobat Exporting Skills.pdf",
+            "The Ultimate PDF Sharing Checklist.pdf"
+        ],
+        "persona": "HR professional",
+        "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+        "processing_timestamp": "2025-07-28T17:41:42.430536"
+    },
+    "extracted_sections": [
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Fill in PDF Forms",
+            "importance_rank": 1,
+            "page_number": 8
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "section_title": "Note:",
+            "importance_rank": 2,
+            "page_number": 24
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "section_title": "Note:",
+            "importance_rank": 3,
+            "page_number": 10
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "Adobe Photoshop,",
+            "importance_rank": 4,
+            "page_number": 5
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "Note:",
+            "importance_rank": 5,
+            "page_number": 14
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "refined_text": "If necessary, select either the Hand Tool or the Select Tool from the context menu of the page (right-click on the page to open the context menu). Some text fields are dynamic, meaning that they automatically resize to accommodate the amount of data you enter and can span across pages. When finished, submit the form to either send the data to a server or create an email to send the data. Auto-Complete forms (interactive forms only) The Auto-Complete feature stores any entries that you type in an interactive form field. To remove an entry from the Auto-Complete memory, such as a misspelled entry that you found and corrected later, edit the list in the preferences.",
+            "page_number": 8
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "refined_text": "For example, a corporation or government agency can require individuals to use only digital IDs issued by that agency to sign official documents. \u2022 Use the Preview Document mode to suppress any dynamic content that can alter the appearance of the document and mislead you into signing an unsuitable document. Customizing signature workflows using seed values Seed values offer additional control to document authors by letting them specify which choices signers can make when signing a document. Create the appearance of a certificate-based signature You determine the look of your certificate-based signature by selecting options in the Signatures panel of the Preferences dialog box. Note: You can also create an appearance using the Signature preferences: Hamburger menu > Preferences > Signatures (Windows) or Acrobat > Preferences > Signatures (macOS).",
+            "page_number": 24
+        },
+        {
+            "document": "Learn Acrobat - Fill and Sign.pdf",
+            "refined_text": "In the Auto-Complete Entry List dialog box, do one of the following, and then select Yes to confirm: \u2022 To remove all entries, select Remove All. Change flat forms to fillable (Acrobat Pro) You can change a flat form to a fillable form by either using the Prepare Form tool or enabling the Fill & Sign tools. Flat form To enable the Fill & Sign tools, from the hamburger menu (File menu in macOS) choose Save As Other  > Acrobat Reader Extended PDF > Enable More Tools (includes Form Fill-in & Save). \u2022 To allow Acrobat Reader users to save the data they typed, choose one of the following depending upon your operating system: Windows\u00ae: Save As Other > Acrobat Reader Extended PDF > Enable More Tools (Includes Form Fill-in & Save) macOS: File > Save As Other > Acrobat Reader Extended PDF > Enable More Tools (Includes Form Fill-in & Save). In the Comments And Forms menu, choose one of the following, and then select OK: \u2022 (Interactive or flat form) To print the form and the typed entries, choose Document.",
+            "page_number": 10
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "Adobe Illustrator, and Adobe InDesign files Method 1: From the top tools bar, select Create a PDF and then select the file. Balance PDF file size and quality You can select various settings to ensure that your PDF has the best balance between file size, resolution, conformity to specific standards, and other factors. For example, a PDF intended for high-quality commercial printing requires di\ufb00erent settings than a PDF intended only for onscreen viewing and quick downloading over the Internet. For scanned documents, you can choose from Autodetect Color Mode or several scanning presets that are optimized for scanning documents and images in color or black and white. You can generate a PDF quickly using the convert to PDF tool, menu commands, dragging-and-dropping files onto the Acrobat application icon, or converting clipboard data.",
+            "page_number": 5
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "Show or activate PDFMaker in Microsoft Office and Lotus Notes If the PDF toolbar buttons don\u2019t appear in your Microsoft Office or Lotus Notes application, use one of the following methods to show or activate PDFMaker. Do one of the following: \u2022 If PDFMOutlook or Acrobat PDFMaker Office COM Add-in isn't listed, choose COM Add-Ins from the Manage pop-up menu and select Go. \u2022 If PDFMOutlook or Acrobat PDFMaker Office COM Add-in is listed under Disabled Application Add-ins, select Disabled Items from the Manage pop-up menu and select Go. (Optional) Check View Result to open the PDF or enable Protect PDF to specify the Security settings for the PDF. Acrobat converts the file into a PDF, creates a shareable link, and opens Outlook with the link in a new message draft.",
+            "page_number": 14
+        }
+    ]
+}
